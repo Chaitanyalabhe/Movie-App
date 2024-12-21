@@ -16,7 +16,6 @@ A visually appealing movie app built with React Native. The app allows users to 
 
 ## 🛠️ Technologies Used  
 - **React Native**  
-- **Expo**  
 - **TVMaze API**  
 - **JavaScript**  
 
@@ -26,26 +25,8 @@ A visually appealing movie app built with React Native. The app allows users to 
 
 ### Prerequisites  
 - Node.js installed.  
-- Expo CLI installed globally.  
+- React Native CLI installed globally.  
 - Code editor (e.g., Visual Studio Code).  
-
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-username>/<your-repository>.git
-   ```  
-2. Navigate to the project directory:  
-   ```bash
-   cd movie-app
-   ```  
-3. Install dependencies:  
-   ```bash
-   npm install
-   ```  
-4. Start the project:  
-   ```bash
-   npm start
-   ```  
 
 ---
 
@@ -91,33 +72,6 @@ Example API endpoint:
 ```
 https://api.tvmaze.com/search/shows?q=all
 ```
-
----
-
-## 🤝 Contributing  
-
-Contributions are welcome! Please follow these steps:  
-1. Fork the project.  
-2. Create a feature branch:  
-   ```bash
-   git checkout -b feature-name
-   ```  
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add feature-name"
-   ```  
-4. Push to the branch:  
-   ```bash
-   git push origin feature-name
-   ```  
-5. Open a pull request.  
-
----
-
-## 📜 License  
-
-This project is licensed under the [MIT License](./LICENSE).  
-
 ---
 
 ## 💡 Acknowledgments  
