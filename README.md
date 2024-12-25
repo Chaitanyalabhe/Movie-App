@@ -33,16 +33,16 @@ A visually appealing movie app built with React Native. The app allows users to 
 ## 🖼️ Screenshots  
 
 ### Splash Screen  
-<img src="./screenshots/splash_screen.png" width="500" />
+<img src="./screenshots/splash_screen.png" width="250" />
 
 ### Home Screen  
-<img src="./screenshots/home_screen.png" width="500" />
+<img src="./screenshots/home_screen.png" width="250" />
 
 ### Search Screen  
-<img src="./screenshots/search_screen.png" width="500" />
+<img src="./screenshots/search_screen.png" width="250" />
 
 ### Details Screen  
-<img src="./screenshots/details_screen.png" width="500" />  
+<img src="./screenshots/details_screen.png" width="250" />  
 
 ---
 
